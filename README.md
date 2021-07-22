@@ -26,7 +26,7 @@ Step 7: Enter 2 to view the food items added to the cart and total amount for th
 
 Step 8: Enter 1 to place order or 0 to add more items.
 
-Note: If any option enter other than the specified options, exception occurs and application terminates.
+Note: If any option entered other than the specified options, exception occurs and application terminates.
 
 ![Screenshot (461)](https://user-images.githubusercontent.com/71175869/126673114-2ce821d8-1780-4366-b97b-e94f792fecef.png)
 
