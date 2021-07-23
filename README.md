@@ -14,7 +14,7 @@ Step 1: Start the application and enter 1 to show Food Menu.
 
 Step 2: Enter 3 or 4 or 5 depending on which food course you want to order from.
 
-Step 3: Enter how many foood items you want to order from the respective food course.
+Step 3: Enter how many food items you want to order from the respective food course.
 
 Step 4: Enter the item number specified for the respective food you want to order.
 
